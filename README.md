@@ -12,4 +12,5 @@ Simple Directory Hiearchy Simulation in C++
 * tail: Print the last n lines of the document.
 * lineCount: Print the total number of lines in the document.
 * uniqueWordCount: Print the number of unique words in the document.
+
 ==================
